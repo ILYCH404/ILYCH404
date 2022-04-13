@@ -24,11 +24,12 @@
 :man_technologist:: About Me :
 
 I am a Junior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: ...
 
 - :seedling: ...
 
-- :zap: I am very love computer games(specialy: Dota 2)
+- :zap: I'm fond of various computer games (especially - Dota 2)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
