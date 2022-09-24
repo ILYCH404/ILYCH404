@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VEzYdo930nTiTuVeMU/giphy-downsized.gif" width="330"/>
+  <img src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif" width="330"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
