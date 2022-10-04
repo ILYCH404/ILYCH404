@@ -24,11 +24,11 @@
 :man_technologist:: About Me :
 
 I am a Junior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I aspire to be a Java developer
+- :telescope: Dive into Java development with Spring
 
-- :seedling: Interested in game development
+- :seedling: I love games and everything related to them
 
-- :zap: I'm fond of various computer games (especially - Dota 2)
+- :zap: Fan of Japanese culture
 
 ---
 
