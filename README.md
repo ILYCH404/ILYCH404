@@ -24,7 +24,7 @@
 :man_technologist:: About Me :
 
 I am a Junior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: Dive into Java development with Spring
+- :telescope: Dive into Java development with Spring (Have company github acc, so i don't have time for pet projects)
 
 - :seedling: I love games and everything related to them
 
